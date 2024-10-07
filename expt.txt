@@ -1,5 +1,5 @@
 #include<stido.h>
 void main()
 {
-printf("aarya")
+printf("aarya2")
 }
